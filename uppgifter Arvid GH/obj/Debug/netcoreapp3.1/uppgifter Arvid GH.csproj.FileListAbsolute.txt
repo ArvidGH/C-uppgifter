@@ -1,0 +1,13 @@
+C:\Users\arvid.gunnerlinghul\Desktop\C-uppgifter\uppgifter Arvid GH\bin\Debug\netcoreapp3.1\uppgifter Arvid GH.exe
+C:\Users\arvid.gunnerlinghul\Desktop\C-uppgifter\uppgifter Arvid GH\bin\Debug\netcoreapp3.1\uppgifter Arvid GH.deps.json
+C:\Users\arvid.gunnerlinghul\Desktop\C-uppgifter\uppgifter Arvid GH\bin\Debug\netcoreapp3.1\uppgifter Arvid GH.runtimeconfig.json
+C:\Users\arvid.gunnerlinghul\Desktop\C-uppgifter\uppgifter Arvid GH\bin\Debug\netcoreapp3.1\uppgifter Arvid GH.runtimeconfig.dev.json
+C:\Users\arvid.gunnerlinghul\Desktop\C-uppgifter\uppgifter Arvid GH\bin\Debug\netcoreapp3.1\uppgifter Arvid GH.dll
+C:\Users\arvid.gunnerlinghul\Desktop\C-uppgifter\uppgifter Arvid GH\bin\Debug\netcoreapp3.1\uppgifter Arvid GH.pdb
+C:\Users\arvid.gunnerlinghul\Desktop\C-uppgifter\uppgifter Arvid GH\obj\Debug\netcoreapp3.1\uppgifter Arvid GH.csprojAssemblyReference.cache
+C:\Users\arvid.gunnerlinghul\Desktop\C-uppgifter\uppgifter Arvid GH\obj\Debug\netcoreapp3.1\uppgifter Arvid GH.csproj.CoreCompileInputs.cache
+C:\Users\arvid.gunnerlinghul\Desktop\C-uppgifter\uppgifter Arvid GH\obj\Debug\netcoreapp3.1\uppgifter Arvid GH.AssemblyInfoInputs.cache
+C:\Users\arvid.gunnerlinghul\Desktop\C-uppgifter\uppgifter Arvid GH\obj\Debug\netcoreapp3.1\uppgifter Arvid GH.AssemblyInfo.cs
+C:\Users\arvid.gunnerlinghul\Desktop\C-uppgifter\uppgifter Arvid GH\obj\Debug\netcoreapp3.1\uppgifter Arvid GH.dll
+C:\Users\arvid.gunnerlinghul\Desktop\C-uppgifter\uppgifter Arvid GH\obj\Debug\netcoreapp3.1\uppgifter Arvid GH.pdb
+C:\Users\arvid.gunnerlinghul\Desktop\C-uppgifter\uppgifter Arvid GH\obj\Debug\netcoreapp3.1\uppgifter Arvid GH.genruntimeconfig.cache
